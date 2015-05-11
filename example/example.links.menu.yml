@@ -1,0 +1,4 @@
+example.my_page:
+  title: 'Block layout'
+  description: 'Configure what block content appears in your site''s sidebars and other regions.'
+  route_name: example.my_page
